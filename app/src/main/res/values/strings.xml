@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pool game app</string>
+    <string name="tab_text_1">Current game</string>
+    <string name="tab_text_2">History</string>
+    <string name="player_breaks">%1$s breaks.</string>
+    <string name="player_won">%1$s won!</string>
+</resources>
